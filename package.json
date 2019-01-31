@@ -1,0 +1,11 @@
+{
+  "name": "od-autho",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/auth0.min.js",
+  "author": "",
+  "license": "ISC",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
